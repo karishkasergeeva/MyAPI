@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarinaAPI", "KarinaAPI\KarinaAPI.csproj", "{D2DC7384-060B-4C0D-BDA9-48323EF0269D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DC7384-060B-4C0D-BDA9-48323EF0269D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DC7384-060B-4C0D-BDA9-48323EF0269D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DC7384-060B-4C0D-BDA9-48323EF0269D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DC7384-060B-4C0D-BDA9-48323EF0269D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81225EF8-5B5D-4737-96F1-EE8EF5317B15}
+	EndGlobalSection
+EndGlobal
